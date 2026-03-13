@@ -31,3 +31,6 @@ C:\Users\ramir\Practice2\CitizensApi\obj\Debug\net10.0\refint\CitizensApi.dll
 C:\Users\ramir\Practice2\CitizensApi\obj\Debug\net10.0\CitizensApi.pdb
 C:\Users\ramir\Practice2\CitizensApi\obj\Debug\net10.0\CitizensApi.genruntimeconfig.cache
 C:\Users\ramir\Practice2\CitizensApi\obj\Debug\net10.0\ref\CitizensApi.dll
+C:\Users\ramir\Practice2\CitizensApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ramir\Practice2\CitizensApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ramir\Practice2\CitizensApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
